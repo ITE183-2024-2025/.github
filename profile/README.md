@@ -9,5 +9,5 @@
 | 4       |Vince Dave Marata       | Zenki    |
 | 5       |Rimar Boter             | reimu       |
 | 6       |Michellene Kyle Rivera  | michikoo0 |
-| 7       |Viva Lou Dapitan        | watashiwabakadesu
 | 8       |Angel Beateice Jumawan  | abjmwn |
+|9        | Britzil Baldovi        | axinzrg|
