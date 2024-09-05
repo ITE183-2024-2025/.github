@@ -19,3 +19,7 @@
 | 23      |Salmairah Balt             | Orion                         |
 | 23      |Elmarie Hamuat             | elllllllllle                  |
 | 27      |Salmairah Balt             | Orion                         |
+| 22      |Evan Mansueto              | vangoman                      |
+| 23      |Francis Angelo Bengua      | Frangel                       |
+| 21      |MeAnn Mecares              | myangiieee                    |
+
