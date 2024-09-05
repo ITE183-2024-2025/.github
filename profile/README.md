@@ -11,7 +11,7 @@
 | 6       |Michellene Kyle Rivera     | michikoo0                     |
 | 7       |Viva Lou Dapitan           | watashiwabakadesu             |
 | 8       |Angel Beateice Jumawan     | abjmwn                        |
-| 14      | Barquilla, Christian Paul | Azwraith                      |
+| 14      |Barquilla, Christian Paul  | Azwraith                      |
 | 20      |John Gylor Paypa           | JohnnySimmer                  |
 | 23      | Sammy Isidro Amada        | SanmyEnt                      |
 | 11      |Mary Jane Felomino         | Origami                       |
@@ -22,4 +22,5 @@
 | 22      |Evan Mansueto              | vangoman                      |
 | 23      |Francis Angelo Bengua      | Frangel                       |
 | 21      |MeAnn Mecares              | myangiieee                    |
+| 22      |Ramcie Labadan             | Ramchi-san                    |
 
