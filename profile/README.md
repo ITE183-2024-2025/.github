@@ -8,3 +8,4 @@
 | 3       |Alexis Mel Dingcong | nouzen   |
 | 4       |Vince Dave Marata   | Zenki    |
 | 5       |Rimar Boter   | reimu       |
+| 8       |Angel Beateice Jumawan | abjmwn |
