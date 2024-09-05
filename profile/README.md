@@ -13,3 +13,4 @@
 | 8       |Angel Beateice Jumawan  | abjmwn |
 | 14      | Barquilla, Christian Paul | Azwraith |
 |20       |John Gylor Paypa        | JohnnySimmer |
+|23       | Sammy Isidro Amada  | SanmyEnt|
