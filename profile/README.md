@@ -1,5 +1,6 @@
 # ITE 183 - Web Systems and Technologies
-## 
+
+## People 
 
 | No      | Name                      | Github username (Alias)       |
 |---------|---------------------------|-------------------------------|
