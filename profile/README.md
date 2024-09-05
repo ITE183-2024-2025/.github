@@ -11,3 +11,4 @@
 | 6       |Michellene Kyle Rivera  | michikoo0 |
 | 7       |Viva Lou Dapitan        | watashiwabakadesu
 | 8       |Angel Beateice Jumawan  | abjmwn |
+| 14      | Barquilla, Christian Paul | Azwraith |
