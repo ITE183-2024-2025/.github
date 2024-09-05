@@ -1,5 +1,5 @@
-# ITE 183 
-## Hi there 👋
+# ITE 183 - Web Systems and Technologies
+## 
 
 | No      | Name                      | Github username (Alias)       |
 |---------|---------------------------|-------------------------------|
