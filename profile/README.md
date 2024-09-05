@@ -11,16 +11,19 @@
 | 6       |Michellene Kyle Rivera     | michikoo0                     |
 | 7       |Viva Lou Dapitan           | watashiwabakadesu             |
 | 8       |Angel Beateice Jumawan     | abjmwn                        |
-| 14      |Barquilla, Christian Paul  | Azwraith                      |
-| 20      |John Gylor Paypa           | JohnnySimmer                  |
-| 23      | Sammy Isidro Amada        | SanmyEnt                      |
-| 11      |Mary Jane Felomino         | Origami                       |
-| 10      |Jan Christoffel Uy         | JanUy64                       |
-| 23      |Salmairah Balt             | Orion                         |
-| 23      |Elmarie Hamuat             | elllllllllle                  |
-| 27      |Salmairah Balt             | Orion                         |
-| 22      |Evan Mansueto              | vangoman                      |
-| 23      |Francis Angelo Bengua      | Frangel                       |
-| 21      |MeAnn Mecares              | myangiieee                    |
-| 22      |Ramcie Labadan             | Ramchi-san                    |
+| 9       |Barquilla, Christian Paul  | Azwraith                      |
+| 10      |John Gylor Paypa           | JohnnySimmer                  |
+| 11      | Sammy Isidro Amada        | SanmyEnt                      |
+| 12      |Mary Jane Felomino         | Origami                       |
+| 13      |Jan Christoffel Uy         | JanUy64                       |
+| 14      |Salmairah Balt             | Orion                         |
+| 15      |Elmarie Hamuat             | elllllllllle                  |
+| 16      |Salmairah Balt             | Orion                         |
+| 17      |Evan Mansueto              | vangoman                      |
+| 18      |Francis Angelo Bengua      | Frangel                       |
+| 19      |MeAnn Mecares              | myangiieee                    |
+| 20      |Ramcie Labadan             | Ramchi-san                    |
+| 21      |John Mark Bolongan         | Makemaks                      |
+| 22      |Britzil Baldovi            | axinzrg                       |
+| 23      |Ivan Kenneth Jabines       | Ayyykeee                      |
 
