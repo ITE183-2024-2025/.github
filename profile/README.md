@@ -4,27 +4,26 @@
 
 | No      | Name                      | Github username (Alias)       |
 |---------|---------------------------|-------------------------------|
-| 1       |Jofel Batutay              | bonezegei                     | 
-| 2       |Bill Sebua                 | Gryndoo                       |
-| 3       |Alexis Mel Dingcong        | nouzen                        |
-| 4       |Vince Dave Marata          | JonSnow_VI                    |
-| 5       |Rimar Boter                | ririkuchuu                    |
-| 6       |Michellene Kyle Rivera     | michikoo0                     |
-| 7       |Viva Lou Dapitan           | watashiwabakadesu             |
-| 8       |Angel Beateice Jumawan     | abjmwn                        |
-| 9       |Barquilla, Christian Paul  | Azwraith                      |
-| 10      |John Gylor Paypa           | JohnnySimmer                  |
-| 11      | Sammy Isidro Amada        | SanmyEnt                      |
-| 12      |Mary Jane Felomino         | Origami                       |
-| 13      |Jan Christoffel Uy         | JanUy64                       |
-| 14      |Salmairah Balt             | Orion                         |
-| 15      |Elmarie Hamuat             | elllllllllle                  |
-| 16      |Salmairah Balt             | Orion                         |
-| 17      |Evan Mansueto              | vangoman                      |
-| 18      |Francis Angelo Bengua      | Frangel                       |
-| 19      |MeAnn Mecares              | myangiieee                    |
-| 20      |Ramcie Labadan             | Ramchi-san                    |
-| 21      |John Mark Bolongan         | Makemaks                      |
-| 22      |Britzil Baldovi            | axinzrg                       |
-| 23      |Ivan Kenneth Jabines       | Ayyykeee                      |
+| 1       |Bill Sebua                 | Gryndoo                       |
+| 2       |Alexis Mel Dingcong        | nouzen                        |
+| 3       |Vince Dave Marata          | JonSnow_VI                    |
+| 4       |Rimar Boter                | ririkuchuu                    |
+| 5       |Michellene Kyle Rivera     | michikoo0                     |
+| 6       |Viva Lou Dapitan           | watashiwabakadesu             |
+| 7       |Angel Beateice Jumawan     | abjmwn                        |
+| 8       |Barquilla, Christian Paul  | Azwraith                      |
+| 9       |John Gylor Paypa           | JohnnySimmer                  |
+| 10      | Sammy Isidro Amada        | SanmyEnt                      |
+| 11      |Mary Jane Felomino         | Origami                       |
+| 12      |Jan Christoffel Uy         | JanUy64                       |
+| 13      |Salmairah Balt             | Orion                         |
+| 14      |Elmarie Hamuat             | elllllllllle                  |
+| 15      |Salmairah Balt             | Orion                         |
+| 16      |Evan Mansueto              | vangoman                      |
+| 17      |Francis Angelo Bengua      | Frangel                       |
+| 18      |MeAnn Mecares              | myangiieee                    |
+| 19      |Ramcie Labadan             | Ramchi-san                    |
+| 20      |John Mark Bolongan         | Makemaks                      |
+| 21      |Britzil Baldovi            | axinzrg                       |
+| 22      |Ivan Kenneth Jabines       | Ayyykeee                      |
 
