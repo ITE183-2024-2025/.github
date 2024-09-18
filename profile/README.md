@@ -27,3 +27,7 @@
 | 21      |Britzil Baldovi            | axinzrg                       |
 | 22      |Ivan Kenneth Jabines       | Ayyykeee                      |
 | 23      |Jireh Andreau Tamala       | jirehandreau                  |
+| 25      |Ayman Angintaopan       | OppenRaiden                  |
+| 26      |Yusoph H.Ali       | Ooopaw                  |
+
+
