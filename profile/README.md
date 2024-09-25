@@ -30,4 +30,5 @@
 | 24.     |Alin Joy Eslaga.           | NilaYoj.                      |
 | 25      |Ayman Angintaopan          | OppenRaiden                   |
 | 26      |Yusoph H.Ali               | Ooopaw                        |                
-| 27      |Deisery Ann Magrina        | dsydes                        |
+| 27      |Deisery Ann Magrina        | dsydes  
+| 28.     |Izza Dionece Seballos.     | izzssshhh.                    | 
